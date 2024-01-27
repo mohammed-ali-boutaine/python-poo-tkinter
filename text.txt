@@ -1,0 +1,15 @@
+[['id', '0'], ['name', 'Mohammed Ali Boutaine'], ['age', '19'], ['filiere', 'dev'], ['admin', 'Oui'], ['date', '2023-06-04 00:17:27']], [['id', '1'], ['name', 'oussama'], ['age', '18'], ['filiere', 'full stack'], ['admin', 'Oui'], ['date', '2023-06-04 23:13:06']], [['id', '2'], ['name', 'med assarty'], ['age', '19'], ['filiere', 'full stack'], ['admin', 'Oui'], ['date', '2023-06-04 23:13:56']], [['id', '3'], ['name', 'aya bnani'], ['age', '19'], ['filiere', 'mobile'], ['admin', 'Oui'], ['date', '2023-06-05 10:08:34']], [['id', '6'], ['name', 'sofian sossi'], ['age', '22'], ['filiere', 'design digital'], ['admin', 'Oui'], ['date', '2023-06-05 11:05:27']], [['id', '7'], ['name', 'yahya '], ['age', '20'], ['filiere', 'dev'], ['admin', 'Oui'], ['date', '2023-06-05 11:05:43']], [['id', '8'], ['name', 'housin'], ['age', '20'], ['filiere', 'dev'], ['admin', 'Oui'], ['date', '2023-06-05 11:10:34']], [['id', '9'], ['name', 'saad jabron'], ['age', '20'], ['filiere', 'mobil'], ['admin', 'Oui'], ['date', '2023-06-05 11:28:16']], [['id', '10'], ['name', 'rida blbaz'], ['age', '22'], ['filiere', 'full stack'], ['admin', 'Oui'], ['date', '2023-06-05 21:05:40']], [['id', '18'], ['name', 'salah bota'], ['age', '22'], ['filiere', 'os developpement'], ['admin', 'Oui'], ['date', '2023-06-06 12:38:37']],[
+                    ["id","19"],
+                    ["name","ahmed eanan"],
+                    ["age", "20"],
+                    ["filiere","dev"],
+                    ["admin", "Oui"],
+                    ["date","2023-06-07 11:42:10"]
+                ],[
+                    ["id","20"],
+                    ["name","samia olal"],
+                    ["age", "19"],
+                    ["filiere","dev"],
+                    ["admin", "Oui"],
+                    ["date","2023-06-07 11:42:26"]
+                ],
