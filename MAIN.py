@@ -53,11 +53,6 @@ class Info:
                 f.write(data)
 
 
-
-# --------------------------------------   add function
-
-
-
 def add_data():
     test = Info()
     test.class_add_data()
